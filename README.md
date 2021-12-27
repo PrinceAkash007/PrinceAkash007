@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Akash
 - 👀 I’m interested in Data Science
-- 🌱 I’m currently looking for a Data Science/ Data Analyst role
+- 🌱 I’m currently looking for a job in Data Science/ Data Analyst role
 - 💞️ I’m looking to explore my skills and make it use for companies
 - 📫 How to reach me Ph.no:7981074098
 
